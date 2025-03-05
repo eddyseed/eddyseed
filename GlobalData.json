@@ -1,0 +1,70 @@
+{
+  "globalTitle": "Eddy Seed | Web Developer",
+  "siteLink": "https://eddyseed.github.io/",
+  "profilePictureLink": "https://imgur.com/iqdlhJk",
+  "profiles": [
+    {
+      "name": "Eddy Seed",
+      "animations": "animate__animated animate__fadeIn",
+      "bio": "A visionary in AI-driven solutions, Eddy pioneers advancements in digital forensics, cybersecurity, and human-AI synergy.",
+      "skills": {
+        "one": "Expert in Digital Forensics",
+        "two": "Cybersecurity Specialist",
+        "three": "AI & Machine Learning Enthusiast"
+      },
+      "buttonText": "Contact Eddy",
+      "buttonLink": "mailto:eddyseed911@outlook.com"
+    },
+    {
+      "name": "Rishabh Jain",
+      "rishabh_sec": "animate__animated animate__fadeIn",
+      "bio": "A tech innovator with expertise in web development and UI/UX, Rishabh designs intelligent systems that redefine digital interactions.",
+      "skills": {
+        "one": "Full-Stack Web Developer",
+        "two": "UI/UX Designer",
+        "three": "Software Engineer"
+      },
+      "buttonText": "Connect with Rishabh",
+      "buttonLink": "mailto:randomboiii069@gmail.com"
+    }
+  ],
+  "animations": {
+    "navigation": {
+      "global": "animate__animated animate__fadeInDown"
+    }
+  },
+  "links": {
+    "navbar-site-logo": "https://imgur.com/F5trmbU",
+    "quick-links": {
+      "anchor1": {
+        "text": "GitHub",
+        "className": "fa-brands fa-github",
+        "link": "https://github.com/eddyseed/"
+      },
+      "anchor2": {
+        "text": "Instagram",
+        "className": "fa-brands fa-instagram",
+        "link": "https://www.instagram.com/rishabh__jain13/"
+      },
+      "anchor3": {
+        "text": "LinkedIn",
+        "className": "fa-brands fa-linkedin",
+        "link": "https://www.linkedin.com/in/rishabh_singhal13/"
+      }
+    }
+  },
+  "project_details": {
+    "pj_1": {
+      "title": "Notepad",
+      "name": ["Eddy Seed"]
+    },
+    "pj_2": {
+      "title": "CoffeeConverters",
+      "name": ["Eddy Seed","dotSlashConfig"]
+    },
+    "pj_3": {
+      "title": "Instagram-Clone",
+      "name": ["Eddy Seed","Kanan"]
+    }
+  }
+}
